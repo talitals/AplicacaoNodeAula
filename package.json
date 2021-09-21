@@ -1,0 +1,24 @@
+{
+  "name": "aplicacaonodeaula",
+  "version": "1.0.0",
+  "description": "Aplicativo da aula",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo Error: no test specified && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talitals/AplicacaoNodeCI.git"
+  },
+  "keywords": [
+    "Aplicacao",
+    "aula",
+    "testegit "
+  ],
+  "author": "Talita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talitals/AplicacaoNodeCI/issues"
+  },
+  "homepage": "https://github.com/talitals/AplicacaoNodeCI#readme"
+}
